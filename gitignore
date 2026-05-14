@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Persistent chat data (contains private conversations)
+chat_history.json
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
