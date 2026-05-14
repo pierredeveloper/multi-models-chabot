@@ -1,11 +1,11 @@
-streamlit
-python-dotenv
-langchain-community
-langchain-groq
-
 streamlit>=1.35.0
 python-dotenv>=1.0.0
 langchain-openai>=0.1.0
 langchain-google-genai>=1.0.0
 langchain-groq>=0.1.0
 langchain-ollama>=0.1.0
+
+streamlit
+python-dotenv
+langchain-community
+langchain-groq
